@@ -49,5 +49,5 @@ Professional cleaning services website built with PostTrap for forms, featuring 
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/waqas-gul/cleaning-company-website.git
+   git clone https://github.com/Hassokhann/cleaning-company-website.git
 Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
